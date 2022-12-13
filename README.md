@@ -18,7 +18,7 @@
 
 - 📫 How to reach me ... 
   <a href="https://app.slack.com/client/T02CW8PH8/D033BTQE1AS" alt="slack" target="_blank">
-    <img src="https://img.shields.io/badge/-Slack-blueviolet?style=flat-square&logo=slack&logoColor=white&link=https://app.slack.com/client/T02T8J3S9/D04D13VFC76" />
+    <img src="https://img.shields.io/badge/-Slack-blueviolet?style=flat-square&logo=slack&logoColor=white" />
   </a>
   <a href="mailto:ana.lopes1@creditas.com" alt="gmail" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:ana.lopes@open-co.com" />
